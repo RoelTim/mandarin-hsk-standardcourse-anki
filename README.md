@@ -10,9 +10,6 @@ These flashcards contain:
 
 Example Flash Card of HSK6 Chapter1:
 
-![alt text](https://github.com/RoelTim/HSK_StandardCourse_Anki/blob/main/images/Capture.PNG?raw=true)
+<img src="https://github.com/RoelTim/HSK_StandardCourse_Anki/blob/main/images/Capture.PNG?raw=true" alt="Example" width="500" height="500">
 
-
-Covers all the HSK Standard Course Books:
-![alt text](https://github.com/RoelTim/HSK_StandardCourse_Anki/blob/main/images/18books.jpg?raw=true)
-
+<img src="https://github.com/RoelTim/HSK_StandardCourse_Anki/blob/main/images/18books.jpg?raw=true" alt="Example" width="500" height="500">
