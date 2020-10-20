@@ -1,4 +1,10 @@
-# HSK_StandardCourse_Anki
+# HSK Standard Course Ankidroid Flashcards
+
+* All HSK Levels (1-6)
+* Chinese Audio
+* Example Sentences (also with audio)
+* Labeled per Chapter
+
 Anki Cards based on the HSK Standard Course Books with Audio. 
 Including HSK Level and Chapter Numbers. 
 
