@@ -8,13 +8,13 @@ These flashcards contain:
 * Labeled per Chapter
 * HSK Standard Course Book Chapter numbers
 
-## Example Flashcard of HSK 6 Chapter 1 - front
+### Example Flashcard of HSK 6 Chapter 1 - front
 <img src="https://github.com/RoelTim/HSK_StandardCourse_Anki/blob/main/images/Front_square.PNG?raw=true" alt="Example" width="500" height="500">
 
 
-## Example Flashcard of HSK 6 Chapter 1 - back
+### Example Flashcard of HSK 6 Chapter 1 - back
 <img src="https://github.com/RoelTim/HSK_StandardCourse_Anki/blob/main/images/Capture_square.png?raw=true" alt="Example" width="500" height="500">
 
 
-## All the HSK Standard Course Books
+### All the HSK Standard Course Books
 <img src="https://github.com/RoelTim/HSK_StandardCourse_Anki/blob/main/images/18books.jpg?raw=true" alt="Example" width="500" height="500">
