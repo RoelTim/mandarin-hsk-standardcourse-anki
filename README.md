@@ -18,3 +18,6 @@ These flashcards contain:
 
 ## All the HSK Standard Course Books
 <img src="https://github.com/RoelTim/HSK_StandardCourse_Anki/blob/main/images/18books.jpg?raw=true" alt="Example" width="500" height="500">
+
+## Ankidroid
+You can use these flascards with Ankidroid: https://apps.ankiweb.net/index.html
